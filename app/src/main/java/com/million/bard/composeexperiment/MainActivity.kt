@@ -72,7 +72,7 @@ class MainActivity : ComponentActivity() {
                     SideEffect {
                         systemUiController.statusBarDarkContentEnabled = true
                     }
-                    Greeting("Android")
+                    Greeting("Changes Made In Brand Update")
                 }
             }
         }
