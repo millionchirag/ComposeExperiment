@@ -73,6 +73,7 @@ class MainActivity : ComponentActivity() {
                         systemUiController.statusBarDarkContentEnabled = true
                     }
                     Greeting("Changes Made In Brand Update")
+                    Greeting("Added Another Changes")
                 }
             }
         }
