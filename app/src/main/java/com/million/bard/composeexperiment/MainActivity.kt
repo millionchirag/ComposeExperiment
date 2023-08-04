@@ -75,6 +75,7 @@ class MainActivity : ComponentActivity() {
                     Greeting("Changes Made In Brand Update")
                     Greeting("Added Another Changes")
                     Greeting("Seconds Branch Changes Made")
+                    Greeting("Pull Request Changes")
                 }
             }
         }
